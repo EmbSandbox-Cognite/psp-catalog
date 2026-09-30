@@ -3,8 +3,9 @@
     "patterns": [
       {
         "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph",
-          "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph"
-
+      },
+      {
+        "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph",
       }
     ]
   }
