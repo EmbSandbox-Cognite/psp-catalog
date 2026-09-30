@@ -2,7 +2,7 @@
     "version": 1,
     "patterns": [
       {
-        "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph",
+        "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph"
       },
     {
         "repo": "https://github.com/cognitedata/cognite-ai-tooling-marketplace",
