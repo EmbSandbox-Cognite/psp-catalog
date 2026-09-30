@@ -4,8 +4,12 @@
       {
         "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph",
       },
-      {
-        "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph",
-      }
+    {
+        "repo": "https://github.com/cognitedata/cognite-ai-tooling-marketplace",
+        "name": "CDF best-practice AI plugins",
+        "description": "Claude Code and Cursor plugin with skills for data modeling, DMS queries, Functions, Transformations, Workflows and naming checks.",
+        "type": "ai-tooling",
+        "tags": ["ai", "data-modeling", "best-practices"]
+    }
     ]
   }
