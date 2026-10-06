@@ -5,6 +5,9 @@
       "repo": "https://github.com/EmbSandbox-Cognite/psp-minimal-knowledge-graph"
     },
     {
+      "repo": "https://github.com/EmbSandbox-Cognite/psp-az-eventhub-demo"
+    },
+    {
       "repo": "https://github.com/cognitedata/cognite-ai-tooling-marketplace",
       "name": "CDF best-practice AI plugins",
       "description": "A public AI Marketplace for CDF configuration best practices, incl. data modeling, transformation, workflow, functions and naming conventions.",
