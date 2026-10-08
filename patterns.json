@@ -16,6 +16,9 @@
       "description": "A public AI Marketplace for CDF configuration best practices, incl. data modeling, transformation, workflow, functions and naming conventions.",
       "type": "ai-tooling",
       "tags": ["ai", "skills", "best-practices"]
+    },
+    {
+      "repo": "https://github.com/EmbSandbox-Cognite/psp-integrations-getting-started"
     }
   ]
 }
