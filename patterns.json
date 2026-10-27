@@ -19,6 +19,9 @@
     },
     {
       "repo": "https://github.com/EmbSandbox-Cognite/psp-integrations-getting-started"
+    },
+    {
+      "repo": "https://github.com/EmbSandbox-Cognite/psp-mqtt-broker-demo"
     }
   ]
 }
